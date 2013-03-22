@@ -23,7 +23,7 @@ Rules
 
 2. Regarding users
 -------------------
-1. Users will never be deleted from the system, except on the following conditions:
+1. Users will never be deleted from the system, except on the following conditions:  
   a) A user has explicitly asked to have themselves deleted or removed from the system.  
 
 3. Regarding user-generated content
