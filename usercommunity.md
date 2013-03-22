@@ -1,6 +1,7 @@
 0. Definitions
 ==============
-'User': A member or participant of the community. There is no seperation in this document between official members of the community, and visitors.  
+'Member': A participant of the community, active or not, who has an account in the community website database.
+'User': A member or participant of the community. There is no seperation between official members of the community, and visitors, in this definition.  
 
 
 Introduction
@@ -11,3 +12,9 @@ Keeping the users safe and productive requires them to be less constrained not n
 
 Rules
 =====
+
+0. There are NO implicit rules in place anywhere, and no one shall take action on implicit rules.
+1. Any and ALL rules MUST be explicitly stated in either
+  a) The start post of a thread (post #0)
+	b) The section rule list
+	c) The official rule list, as displayed here

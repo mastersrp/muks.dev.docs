@@ -6,6 +6,11 @@ Introduction
 
 A community like Muks.dk constantly evolving,  society in constant need of new features and ideas, requres an underlying system that can compliment that. The currently used system, PHP-Fusion, is highly restrictive in what it allows done and how it allows things done.  
 Therefore the underlying system must respond very well to new ideas and changes. An interface to compliment this must be implemented in a way that does not disturb other parts of the system.  
+
+Conceptual Base
+===============
+
+The conceptual base is the underlying ideas required for the system to function at first. The technology used, and the ideal implementation thereof.
   
 Coding Style
 ============
