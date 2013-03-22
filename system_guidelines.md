@@ -12,9 +12,9 @@ Coding Style
 
 There are three principles that MUST be followed at all times, regardless of coding style specifics.  
 They are as follows:  
-* [KISS][https://en.wikipedia.org/wiki/KISS_principle]  
-* [DRY][https://en.wikipedia.org/wiki/Don%27t_repeat_yourself]  
-* [YAGN][https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it]  
+* https://en.wikipedia.org/wiki/KISS_principle
+* https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+* https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
 If the above guidelines are followed without a doubt the system will be heading in the right and bright direction.  
   
 The rest of the coding style section is to be published later, when the language has been chosen.
