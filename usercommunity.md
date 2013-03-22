@@ -15,8 +15,8 @@ Rules
 
 1. Regarding rules
 -------------------
-1.0. There are NO implicit rules in place anywhere, and no one shall take action on implicit rules.
-1.1. Any and ALL rules MUST be explicitly stated in either  
+1. There are NO implicit rules in place anywhere, and no one shall take action on implicit rules.
+1. Any and ALL rules MUST be explicitly stated in either  
   a) The start post of a thread (post #0)  
 	b) The section rule list  
 	c) The official rule list, as displayed here  
