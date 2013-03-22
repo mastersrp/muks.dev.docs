@@ -20,3 +20,18 @@ Rules
   a) The start post of a thread (post #0)  
 	b) The section rule list  
 	c) The official rule list, as displayed here  
+
+2. Regarding users
+-------------------
+1. Users will never be deleted from the system, except on the following conditions:
+  a) A user has explicitly asked to have themselves deleted or removed from the system.  
+
+3. Regarding user-generated content
+-----------------------------------
+1. The owner of the site is not liable for anything posted on this site, and will never be held responsible for any or all content, to the extend permitted by Danish and/or EU law.  
+2. Users may be held responsible for their content, if required by Danish and/or EU law, otherwise they are not to be held responsible for any content posted here.
+
+4. Regarding the site owner
+---------------------------
+1. The owner of the site must not disable or remove the site, or otherwise hinder the users from accessing the site.  
+2. The owner of the site will never directly accept donations on behalf of the site. These donations are to be managed by the site owner, but never used on behalf of themselves.
